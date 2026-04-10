@@ -1,83 +1,73 @@
-# 👋 Olá, eu sou o Junior Bonini
+# Junior Bonini
 
-Sou um profissional de tecnologia com experiência sólida em **Suporte Técnico / Customer Support**, atualmente em **transição de carreira**, organizando minha trajetória com mais foco, clareza e consistência.
+## De suporte técnico a Full Stack Developer — por escolha própria
 
-Minha jornada não foi linear. Ao longo do tempo, isso desenvolveu em mim habilidades importantes como resiliência, capacidade de adaptação, pensamento crítico e aprendizado contínuo. Hoje, escolho aplicar tudo isso de forma consciente na minha evolução profissional.
+Não comecei a programar por vocação imediata. Levei um tempo até entender que era isso que eu queria de verdade. Por muito tempo estudei sem direção, sem motivo, sem sentir que estava avançando.
 
----
+Até que algo mudou.
 
-## 🎯 Foco Profissional
+Comecei a entender o que estava fazendo. Comecei a questionar mais, a estruturar melhor, a ver sentido em cada linha de código. E quando percebi que conseguia pegar uma ideia da minha cabeça e transformar em algo real — um app, uma tela, uma lógica funcionando — não tinha mais volta.
 
-* Suporte Técnico / Help Desk / Service Desk
-* Customer Support técnico (SaaS)
-* Evolução para desenvolvimento Full-Stack e aplicações modernas
+Hoje programar é uma escolha totalmente minha. E essa diferença muda tudo.
 
 ---
 
-## 🛠️ Hard Skills
+## O que eu construo
 
-* **Suporte Técnico & Atendimento ao Usuário**
+Full Stack com foco em **React Native · React.js · Node.js · NestJS · TypeScript**.
 
-  * Troubleshooting de problemas técnicos
-  * Resolução de incidentes e suporte N1/N2
-  * Comunicação clara e orientação ao usuário final
+Construo interfaces responsivas e APIs escaláveis, com atenção a arquitetura modular, separação de responsabilidades e experiência do usuário — do componente ao endpoint.
 
-* **Desenvolvimento & Tecnologias**
+Antes de migrar para Dev, passei **4+ anos em suporte técnico corporativo (N1/N2)**: mais de 200 incidentes/mês, SLA ≥ 95% por 3 anos, fluxos de diagnóstico que reduziram tempo de resolução em 30%. Essa bagagem me deu algo que a maioria dos devs júnior não tem — raciocínio orientado a causa-raiz e zero tolerância a retrabalho.
 
-  * JavaScript / TypeScript
-  * Node.js
-  * NestJS
-  * React Native *(em estudo contínuo)*
-  * HTML / CSS
-  * Git & GitHub
-  * Consumo de APIs REST
-
-* **Conceitos & Práticas**
-
-  * Lógica de programação
-  * Estruturação de projetos
-  * Boas práticas de código
+**Inglês C2** — documentação técnica, comunicação com squads internacionais e PRs sem fricção.
 
 ---
 
-## 🧠 Soft Skills
+## Meu laboratório atual — Ascending Timeforge
 
-* Comunicação clara e empática
-* Resiliência emocional
-* Capacidade de aprendizado contínuo
-* Pensamento analítico
-* Responsabilidade e comprometimento
-* Colaboração em equipe
+> *"Um app que saiu da minha cabeça e está virando algo grande."*
 
----
+O que começou como um app simples de tarefas está se tornando uma plataforma de **produtividade gamificada**:
 
-## 📌 Sobre este GitHub
+- Cada tarefa gera **XP**
+- Cada usuário possui **nível (LVL)**
+- O **tempo de execução** influencia a recompensa — performance importa
+- **Streaks** de dias consecutivos multiplicam o ganho
+- **Challenges dinâmicos** gerados com base no comportamento do próprio usuário
+- Sistema de **conquistas, badges e ranking**
 
-Este perfil é tratado como um **portfólio profissional**.
+Stack: React Native · NestJS · MongoDB · TypeScript · JWT · Zod · react-hook-form · Reanimated
 
-Os repositórios aqui presentes representam:
+O projeto passou por uma refatoração completa antes de crescer: visual reconstruído do zero, componentes isolados, hooks customizados, separação total entre UI e lógica. Porque construir rápido sem base sólida não é construir — é acumular dívida.
 
-* Projetos em evolução
-* Estudos aplicados com objetivo prático
-* Aprendizado focado em empregabilidade
-
-Projetos antigos, incompletos ou que não refletem meu nível atual foram **arquivados**, não apagados — fazem parte da minha história, mas não da minha vitrine profissional.
+📌 [Ver repositório](git@github.com:juniorbonini/todo-app.git)
 
 ---
 
-## 🚀 Momento Atual
+## Stack
 
-Estou em andamento na minha **transição de carreira**, estruturando melhor meus estudos, projetos e objetivos profissionais, buscando atuar de forma cada vez mais consistente e alinhada com o mercado.
-
-Meu foco agora é:
-
-* Construir projetos claros e bem documentados
-* Evoluir tecnicamente com direção
-* Manter constância e responsabilidade no processo
+```
+Frontend       React.js · React Native · TypeScript · JavaScript (ES6+)
+Backend        Node.js · NestJS · REST API
+Banco de dados MongoDB · PostgreSQL
+Ferramentas    Git · GitHub · Expo · Zod · react-hook-form
+```
 
 ---
 
-📫 **Contato**
+## O que estou focando agora
 
-* Linkedin: www.linkedin.com/in/junior-bonini-72219b18a
-* Email: la.boninijunior@gmail.com
+- Finalizar o fluxo de **Login/Register** do Ascending Timeforge com integração real ao back-end
+- Implementar o sistema de **XP, LVL e streaks**
+- Evoluir consistentemente — uma entrega por vez, sem pular etapas
+
+---
+
+## Contato
+
+LinkedIn](https://www.linkedin.com/in/junior-bonini-72219b18a/)
+
+---
+
+*Ainda aprendendo muito. Mas agora sei para onde estou indo — e não estou parando.*
